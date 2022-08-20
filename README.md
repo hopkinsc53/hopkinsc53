@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris, AKA @hopkinsc53
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning at Georgia Tech cybersecurity bootcamp.  
+- 🌱 I’ve been attended Georgia Tech cybersecurity bootcamp.  
 - 💞️ I’m looking to collaborate on server hardening, payload scripting, PEN testing, and team scavenger hunt events. 
 - 📫 How to reach me: email me at hopkinsc53@gmail.com
 
